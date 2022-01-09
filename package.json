@@ -1,7 +1,7 @@
 {
-  "name": "test-npm-package",
+  "name": "test-npm-module",
   "version": "1.0.0",
-  "description": "A test npm package.",
+  "description": "A test npm module.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
