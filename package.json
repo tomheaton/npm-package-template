@@ -1,10 +1,10 @@
 {
-  "name": "test-npm-package",
+  "name": "npm-package-template",
   "version": "1.0.0",
-  "description": "A test npm package.",
+  "description": "An npm package template.",
   "main": "index.js",
   "types": "index.d.ts",
-  "repository": "https://github.com/tomheaton/test-npm-package",
+  "repository": "https://github.com/tomheaton/npm-package-template",
   "author": "Tom Heaton",
   "license": "MIT",
   "keywords": []
