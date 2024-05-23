@@ -1,3 +1,3 @@
-# test-npm-package
+# npm-package-template
 
-:package: A test npm package.
+:package: An npm package template.
